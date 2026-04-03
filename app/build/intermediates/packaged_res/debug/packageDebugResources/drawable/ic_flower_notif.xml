@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Simple flower icon for notification (must be white/monochrome) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,2 C13.1,2 14,2.9 14,4 C14,5.1 13.1,6 12,6 C10.9,6 10,5.1 10,4 C10,2.9 10.9,2 12,2Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,18 C13.1,18 14,18.9 14,20 C14,21.1 13.1,22 12,22 C10.9,22 10,21.1 10,20 C10,18.9 10.9,18 12,18Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M4,10 C2.9,10 2,10.9 2,12 C2,13.1 2.9,14 4,14 C5.1,14 6,13.1 6,12 C6,10.9 5.1,10 4,10Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,10 C18.9,10 18,10.9 18,12 C18,13.1 18.9,14 20,14 C21.1,14 22,13.1 22,12 C22,10.9 21.1,10 20,10Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M5.6,4.2 C5.6,5.3 6.5,6.2 7.6,6.2 C8.7,6.2 9.6,5.3 9.6,4.2 C9.6,3.1 8.7,2.2 7.6,2.2 C6.5,2.2 5.6,3.1 5.6,4.2Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,9 C10.3,9 9,10.3 9,12 C9,13.7 10.3,15 12,15 C13.7,15 15,13.7 15,12 C15,10.3 13.7,9 12,9Z" />
+    <!-- Stem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M11.5,15 L11.5,22 L12.5,22 L12.5,15 Z" />
+</vector>

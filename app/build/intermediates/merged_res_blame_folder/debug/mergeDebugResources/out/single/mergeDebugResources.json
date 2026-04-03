@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-debug-37:\\drawable_ic_flower_notif.xml.flat",
+        "source": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-main-39:\\drawable\\ic_flower_notif.xml"
+    },
+    {
+        "merged": "com.example.flowerfocus.app-debug-37:/layout_item_app_selection.xml.flat",
+        "source": "com.example.flowerfocus.app-main-39:/layout/item_app_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-debug-37:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-main-39:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-debug-37:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-main-39:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-debug-37:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-main-39:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-debug-37:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-main-39:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "com.example.flowerfocus.app-debug-37:/layout_activity_app_selection.xml.flat",
+        "source": "com.example.flowerfocus.app-main-39:/layout/activity_app_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-debug-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-debug-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.flowerfocus.app-debug-37:/menu_home_menu.xml.flat",
+        "source": "com.example.flowerfocus.app-main-39:/menu/home_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-debug-37:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-main-39:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-debug-37:\\layout_activity_session.xml.flat",
+        "source": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-main-39:\\layout\\activity_session.xml"
+    },
+    {
+        "merged": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-debug-37:\\layout_item_flower_history.xml.flat",
+        "source": "C:\\Users\\smlep\\.gradle\\daemon\\8.14\\com.example.flowerfocus.app-main-39:\\layout\\item_flower_history.xml"
+    }
+]
